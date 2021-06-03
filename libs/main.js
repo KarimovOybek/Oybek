@@ -6,16 +6,16 @@ let canvas = document.querySelector('canvas')
 
 setTimeout(() => {
     header.style.opacity = '1' 
-}, 3000);
+}, 2000);
 setTimeout(() => {
     colorController.style.opacity = '1' 
-}, 3000);
+}, 2000);
 setTimeout(() => {
     headerNav.style.opacity = '1' 
-}, 3000);
+}, 2000);
 setTimeout(() => {
     canvas.style.display= 'none' 
-}, 4000);
+}, 3000);
 
 // end intro
 
